@@ -302,6 +302,7 @@ $ cd /data/wwwroot/freenom/ && php run
 欢迎`star`~
 
 
+
 ### ❤  捐赠 Donate
 如果你觉得本项目真的有帮助到你并且想回馈作者，感谢你的捐赠。
 #### PayPal: [https://www.paypal.me/mybsdc](https://www.paypal.me/mybsdc)
